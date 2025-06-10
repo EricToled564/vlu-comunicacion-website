@@ -1,4 +1,4 @@
-// File: /home/ubuntu/vlu_comunicacion_website/app/app/layout.tsx
+// File: /home/ubuntu/workspace/vlu-comunicacion-website/app/app/layout.tsx
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
