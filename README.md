@@ -27,52 +27,70 @@ cd app && npm run start
 
 ## Deployment en Vercel
 
-### Paso 1: Preparar el Repositorio Git
+### ✅ Estado del Proyecto
+- ✅ Git inicializado y configurado
+- ✅ Build de producción verificado
+- ✅ Archivos de configuración creados
+- ✅ Listo para deployment
 
-1. Crear un repositorio en GitHub/GitLab
-2. Agregar el remote:
+### Paso 1: Crear Repositorio en GitHub
+
+1. Ve a [GitHub](https://github.com) y crea un nuevo repositorio llamado `vlu-comunicacion-website`
+2. **NO** inicialices con README, .gitignore o licencia (ya están configurados)
+3. Copia la URL del repositorio (ej: `https://github.com/tu-usuario/vlu-comunicacion-website.git`)
+
+### Paso 2: Conectar y Subir el Código
+
+Ejecuta estos comandos en tu terminal:
+
 ```bash
-git remote add origin https://github.com/tu-usuario/vlu-comunicacion-website.git
+cd /home/ubuntu/vlu_comunicacion_website
+git remote add origin https://github.com/TU-USUARIO/vlu-comunicacion-website.git
 git push -u origin main
 ```
 
-### Paso 2: Configurar Vercel
+### Paso 3: Configurar Vercel
 
 1. Ve a [vercel.com](https://vercel.com) y crea una cuenta o inicia sesión
 2. Haz clic en "New Project"
-3. Importa tu repositorio de GitHub/GitLab
-4. Vercel detectará automáticamente que es un proyecto Next.js
-5. **Importante**: En la configuración del proyecto:
-   - **Build Command**: `cd app && npm run build`
+3. Importa tu repositorio `vlu-comunicacion-website`
+4. **IMPORTANTE**: Configura estos valores:
+   - **Framework Preset**: Next.js
+   - **Build Command**: `npm install --legacy-peer-deps && cd app && npm run build`
    - **Output Directory**: `app/.next`
-   - **Install Command**: `npm install`
+   - **Install Command**: `npm install --legacy-peer-deps`
    - **Development Command**: `cd app && npm run dev`
 
-### Paso 3: Variables de Entorno
+### Paso 4: Variables de Entorno (si aplica)
 
-Si tu proyecto usa variables de entorno, agrégalas en la sección "Environment Variables" de Vercel:
-- `DATABASE_URL` (si usas Prisma)
-- `NEXTAUTH_SECRET` (si usas NextAuth)
-- `NEXTAUTH_URL` (debe ser https://lssm.com.mx en producción)
-- Otras variables específicas del proyecto
+En la sección "Environment Variables" de Vercel, agrega:
+- `DATABASE_URL` (si usas base de datos)
+- `NEXTAUTH_SECRET` (si usas autenticación)
+- `NEXTAUTH_URL` = `https://lssm.com.mx`
 
-### Paso 4: Configurar Dominio Personalizado
+### Paso 5: Configurar Dominio Personalizado
 
 1. En el dashboard de Vercel, ve a tu proyecto
 2. Ve a la pestaña "Domains"
 3. Agrega el dominio: `lssm.com.mx`
-4. Configura los registros DNS en tu proveedor de dominio:
+4. Vercel te dará instrucciones específicas para configurar DNS
+5. Configura estos registros en tu proveedor de dominio:
    - **Tipo A**: `@` → `76.76.19.61`
    - **Tipo CNAME**: `www` → `cname.vercel-dns.com`
 
-### Paso 5: Deploy
+### Paso 6: Deploy Automático
 
-1. Haz push a la rama `main`:
+Una vez configurado, cada push a `main` desplegará automáticamente:
 ```bash
+git add .
+git commit -m "Update website"
 git push origin main
 ```
-2. Vercel automáticamente detectará el cambio y desplegará tu sitio
-3. El sitio estará disponible en `https://lssm.com.mx`
+
+### 🚀 URLs del Proyecto
+- **Desarrollo**: `http://localhost:3000`
+- **Producción**: `https://lssm.com.mx`
+- **Vercel URL**: Se generará automáticamente (ej: `https://vlu-comunicacion-website.vercel.app`)
 
 ## Tecnologías Utilizadas
 

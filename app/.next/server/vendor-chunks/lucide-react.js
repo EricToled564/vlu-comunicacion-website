@@ -299,6 +299,77 @@ const CircleCheckBig = (0,_createLucideIcon_js__WEBPACK_IMPORTED_MODULE_0__["def
 
 /***/ }),
 
+/***/ "(ssr)/../node_modules/lucide-react/dist/esm/icons/eye.js":
+/*!**********************************************************!*\
+  !*** ../node_modules/lucide-react/dist/esm/icons/eye.js ***!
+  \**********************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (/* binding */ Eye)
+/* harmony export */ });
+/* harmony import */ var _createLucideIcon_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../createLucideIcon.js */ "(ssr)/../node_modules/lucide-react/dist/esm/createLucideIcon.js");
+/**
+ * @license lucide-react v0.446.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */ 
+const Eye = (0,_createLucideIcon_js__WEBPACK_IMPORTED_MODULE_0__["default"])("Eye", [
+    [
+        "path",
+        {
+            d: "M2.062 12.348a1 1 0 0 1 0-.696 10.75 10.75 0 0 1 19.876 0 1 1 0 0 1 0 .696 10.75 10.75 0 0 1-19.876 0",
+            key: "1nclc0"
+        }
+    ],
+    [
+        "circle",
+        {
+            cx: "12",
+            cy: "12",
+            r: "3",
+            key: "1v7zrd"
+        }
+    ]
+]);
+ //# sourceMappingURL=eye.js.map
+
+
+/***/ }),
+
+/***/ "(ssr)/../node_modules/lucide-react/dist/esm/icons/heart.js":
+/*!************************************************************!*\
+  !*** ../node_modules/lucide-react/dist/esm/icons/heart.js ***!
+  \************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (/* binding */ Heart)
+/* harmony export */ });
+/* harmony import */ var _createLucideIcon_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../createLucideIcon.js */ "(ssr)/../node_modules/lucide-react/dist/esm/createLucideIcon.js");
+/**
+ * @license lucide-react v0.446.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */ 
+const Heart = (0,_createLucideIcon_js__WEBPACK_IMPORTED_MODULE_0__["default"])("Heart", [
+    [
+        "path",
+        {
+            d: "M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.3 1.5 4.05 3 5.5l7 7Z",
+            key: "c3ymky"
+        }
+    ]
+]);
+ //# sourceMappingURL=heart.js.map
+
+
+/***/ }),
+
 /***/ "(ssr)/../node_modules/lucide-react/dist/esm/icons/menu.js":
 /*!***********************************************************!*\
   !*** ../node_modules/lucide-react/dist/esm/icons/menu.js ***!
@@ -380,6 +451,55 @@ const MessageSquare = (0,_createLucideIcon_js__WEBPACK_IMPORTED_MODULE_0__["defa
     ]
 ]);
  //# sourceMappingURL=message-square.js.map
+
+
+/***/ }),
+
+/***/ "(ssr)/../node_modules/lucide-react/dist/esm/icons/shopping-cart.js":
+/*!********************************************************************!*\
+  !*** ../node_modules/lucide-react/dist/esm/icons/shopping-cart.js ***!
+  \********************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (/* binding */ ShoppingCart)
+/* harmony export */ });
+/* harmony import */ var _createLucideIcon_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../createLucideIcon.js */ "(ssr)/../node_modules/lucide-react/dist/esm/createLucideIcon.js");
+/**
+ * @license lucide-react v0.446.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */ 
+const ShoppingCart = (0,_createLucideIcon_js__WEBPACK_IMPORTED_MODULE_0__["default"])("ShoppingCart", [
+    [
+        "circle",
+        {
+            cx: "8",
+            cy: "21",
+            r: "1",
+            key: "jimo8o"
+        }
+    ],
+    [
+        "circle",
+        {
+            cx: "19",
+            cy: "21",
+            r: "1",
+            key: "13723u"
+        }
+    ],
+    [
+        "path",
+        {
+            d: "M2.05 2.05h2l2.66 12.42a2 2 0 0 0 2 1.58h9.78a2 2 0 0 0 1.95-1.57l1.65-7.43H5.12",
+            key: "9zh506"
+        }
+    ]
+]);
+ //# sourceMappingURL=shopping-cart.js.map
 
 
 /***/ }),
