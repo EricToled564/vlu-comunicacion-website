@@ -3,6 +3,9 @@
   "name": "app",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": ">=18.x"
+  },
   "scripts": {
     "dev": "../node_modules/.bin/next dev -p 3000",
     "build": "../node_modules/.bin/next build",

@@ -1,4 +1,4 @@
-// File: /home/ubuntu/workspace/vlu-comunicacion-website/app/app/kpis/page.tsx
+// File: /home/ubuntu/vlu-comunicacion-website/app/app/kpis/page.tsx
 import * as entry from '../../../../app/kpis/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

@@ -1,4 +1,4 @@
-// File: /home/ubuntu/workspace/vlu-comunicacion-website/app/app/campaigns/page.tsx
+// File: /home/ubuntu/vlu-comunicacion-website/app/app/campaigns/page.tsx
 import * as entry from '../../../../app/campaigns/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
