@@ -1,14 +1,8 @@
 
 {
-  "version": 2,
   "buildCommand": "npm install --legacy-peer-deps && cd app && npm run build",
   "outputDirectory": "app/.next",
   "framework": "nextjs",
   "installCommand": "npm install --legacy-peer-deps",
-  "devCommand": "cd app && npm run dev",
-  "functions": {
-    "app/**/*.js": {
-      "runtime": "nodejs18.x"
-    }
-  }
+  "devCommand": "cd app && npm run dev"
 }
