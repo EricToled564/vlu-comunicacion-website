@@ -1,0 +1,304 @@
+{
+  "sitio_web": "VLU Tequesquitengo - Estrategia de Comunicación y Medios",
+  "marca": {
+    "nombre": "VLU Tequesquitengo",
+    "colores_primarios": {
+      "azul_principal": "#1B5E7A",
+      "turquesa_claro": "#4ECDC4",
+      "azul_medio": "#2E8B9B",
+      "azul_oscuro": "#0F3A4A"
+    },
+    "posicionamiento": "Tu santuario exclusivo junto al lago para bienestar, recreación y experiencias auténticas de Morelos – un escape de fin de semana sin esfuerzo desde la ciudad",
+    "propuesta_valor": "Excelencia consistente que Airbnb no puede garantizar con experiencia en hospitalidad 24/7 a tu servicio"
+  },
+  "resumen_ejecutivo": {
+    "contexto_estrategico": "VLU Tequesquitengo opera en un dinámico mercado de hospitalidad boutique valorado en USD 1,267.4 millones (2024) con un crecimiento proyectado a USD 1,868.5 millones para 2030 (CAGR del 6.8%)",
+    "desafios_criticos": [
+      "Ocupación actual: tasa anual del 45% (objetivo: aumentar a 65%+)",
+      "Brecha de percepción de valor: 7.2/10 para relación calidad-precio vs. 7.9/10 satisfacción general",
+      "Amplificación digital limitada: Solo 120 reseñas a pesar de la satisfacción de los huéspedes",
+      "Presión competitiva: 670 propiedades Airbnb creando desafíos de precios"
+    ],
+    "objetivos_primarios": [
+      "Aumentar la ocupación anual del 45% al 65% mediante la adquisición segmentada",
+      "Mejorar la calificación de percepción de valor de 7.2 a 8.0+ mediante comunicación mejorada",
+      "Triplicar el volumen de reseñas de 120 a 360+ reseñas en plataformas clave",
+      "Establecer liderazgo de mercado como destino premier de escape de fin de semana",
+      "Generar 25% de reservas directas reduciendo la dependencia de OTAs"
+    ]
+  },
+  "arquitectura_mensajes": {
+    "mensajes_universales": [
+      "Garantía de Calidad: Excelencia consistente que Airbnb no puede garantizar",
+      "Servicio Profesional: Experiencia en hospitalidad 24/7 a tu servicio",
+      "Experiencias Auténticas: Cultura genuina de Morelos, no atracciones turísticas",
+      "Justificación de Valor: Experiencias de lujo curadas que valen cada peso"
+    ]
+  },
+  "calendario_campanas": {
+    "periodo": "15 de junio 2025 - 14 de junio 2026",
+    "total_campanas": 14,
+    "campanas": [
+      {
+        "nombre": "Verano al Lago",
+        "periodo": "15 de junio - 31 de agosto, 2025",
+        "objetivo_segmento": "Escapistas, Nómadas Digitales",
+        "canales_primarios": ["Instagram", "TikTok", "Facebook"],
+        "concepto_creativo": "Santuario de verano con momentos dorados junto al lago, rituales de bienestar",
+        "kpis": [
+          "40% aumento en reservas de verano",
+          "500+ publicaciones #VeranoAlLago",
+          "25% aumento en seguidores de Instagram",
+          "Calificación de satisfacción 7.8+ para huéspedes de verano"
+        ]
+      },
+      {
+        "nombre": "Cruce Teques Experience",
+        "periodo": "1 de julio - 15 de agosto, 2025",
+        "objetivo_segmento": "Entusiastas de Aventura, Exploradores",
+        "canales_primarios": ["TikTok", "Instagram", "YouTube"],
+        "concepto_creativo": "Deportes acuáticos llenos de adrenalina, fusión de cultura local auténtica"
+      },
+      {
+        "nombre": "Viva México Getaway",
+        "periodo": "1-30 de septiembre, 2025",
+        "objetivo_segmento": "Exploradores Culturales, Celebradores",
+        "canales_primarios": ["Facebook", "Instagram", "YouTube"],
+        "concepto_creativo": "Celebraciones patrióticas, experiencias tradicionales mexicanas, inmersión cultural"
+      },
+      {
+        "nombre": "Vaivén + Wellness",
+        "periodo": "1 de octubre - 15 de noviembre, 2025",
+        "objetivo_segmento": "Buscadores de Bienestar, Escapistas",
+        "canales_primarios": ["Instagram", "TikTok", "YouTube"],
+        "concepto_creativo": "Viaje holístico de bienestar, transformación mente-cuerpo-espíritu"
+      },
+      {
+        "nombre": "Puente Revolución Reset",
+        "periodo": "16-25 de noviembre, 2025",
+        "objetivo_segmento": "Nómadas Digitales, Ejecutivos",
+        "canales_primarios": ["LinkedIn", "Instagram", "Facebook"],
+        "concepto_creativo": "Productividad revolucionaria, reflexión histórica, planificación estratégica"
+      },
+      {
+        "nombre": "Magia Navideña",
+        "periodo": "1 de diciembre - 7 de enero, 2026",
+        "objetivo_segmento": "Celebradores, Escapistas",
+        "canales_primarios": ["Facebook", "Instagram", "TikTok"],
+        "concepto_creativo": "Celebraciones navideñas encantadas, Navidad mágica junto al lago"
+      },
+      {
+        "nombre": "Renueva-te 2026",
+        "periodo": "8 de enero - 14 de febrero, 2026",
+        "objetivo_segmento": "Buscadores de Bienestar, Escapistas",
+        "canales_primarios": ["Instagram", "TikTok", "YouTube"],
+        "concepto_creativo": "Transformación de año nuevo, resoluciones de bienestar, nuevos comienzos"
+      },
+      {
+        "nombre": "Puente-Valentín",
+        "periodo": "15-17 de febrero, 2026",
+        "objetivo_segmento": "Escapistas, Celebradores",
+        "canales_primarios": ["Instagram", "Facebook", "TikTok"],
+        "concepto_creativo": "Escapes románticos junto al lago, celebraciones íntimas, historias de amor"
+      },
+      {
+        "nombre": "Acuaski Pro-Week",
+        "periodo": "18 de febrero - 15 de marzo, 2026",
+        "objetivo_segmento": "Entusiastas de Aventura, Nómadas",
+        "canales_primarios": ["TikTok", "Instagram", "YouTube"],
+        "concepto_creativo": "Deportes acuáticos profesionales, desarrollo de habilidades, cultura de adrenalina"
+      },
+      {
+        "nombre": "Pre-Semana Santa",
+        "periodo": "16-28 de marzo, 2026",
+        "objetivo_segmento": "Exploradores, Celebradores",
+        "canales_primarios": ["Facebook", "Instagram", "YouTube"],
+        "concepto_creativo": "Tradiciones culturales, reuniones familiares, reflexión espiritual"
+      },
+      {
+        "nombre": "Retiro Semana Santa",
+        "periodo": "29 de marzo - 6 de abril, 2026",
+        "objetivo_segmento": "Buscadores de Bienestar, Exploradores",
+        "canales_primarios": ["Instagram", "YouTube", "Facebook"],
+        "concepto_creativo": "Retiro espiritual, inmersión cultural, reflexión pacífica"
+      },
+      {
+        "nombre": "Puente 1º Mayo",
+        "periodo": "26 de abril - 4 de mayo, 2026",
+        "objetivo_segmento": "Nómadas Digitales, Celebradores",
+        "canales_primarios": ["LinkedIn", "Instagram", "Facebook"],
+        "concepto_creativo": "Celebración laboral, balance vida-trabajo, reinicio de productividad"
+      },
+      {
+        "nombre": "Bodas & Eventos",
+        "periodo": "5 de mayo - 14 de junio, 2026",
+        "objetivo_segmento": "Wedding Planners, Celebradores",
+        "canales_primarios": ["Instagram", "Facebook", "YouTube"],
+        "concepto_creativo": "Bodas de ensueño, celebraciones perfectas, ceremonias románticas junto al lago"
+      },
+      {
+        "nombre": "Cierre de Ciclo",
+        "periodo": "1-14 de junio, 2026",
+        "objetivo_segmento": "Todos los Segmentos",
+        "canales_primarios": ["Todos los Canales"],
+        "concepto_creativo": "Reflexión del año, celebración de logros, planificación futura"
+      }
+    ]
+  },
+  "estrategia_canales": {
+    "instagram": {
+      "enfoque": "Narrativa visual e integración de estilo de vida",
+      "contenido_tipo": ["Fotografía hora dorada", "Rituales de bienestar", "Historias de transformación"]
+    },
+    "tiktok": {
+      "enfoque": "Momentos auténticos y adaptaciones trending",
+      "contenido_tipo": ["Contenido de alta energía", "Desafíos de aventura", "Metraje de acción"]
+    },
+    "facebook": {
+      "enfoque": "Engagement comunitario e información detallada",
+      "contenido_tipo": ["Celebraciones tradicionales", "Educación cultural", "Reuniones familiares"]
+    },
+    "youtube": {
+      "enfoque": "Introducción de campaña en formato largo y experiencias virtuales",
+      "contenido_tipo": ["Videos preparación", "Documentación transformación", "Tours virtuales"]
+    },
+    "linkedin": {
+      "enfoque": "Posicionamiento profesional y B2B",
+      "contenido_tipo": ["Retiros corporativos", "Desarrollo profesional", "Balance vida-trabajo"]
+    }
+  },
+  "viaje_cliente": {
+    "descubrimiento": {
+      "objetivos": "Generar conciencia a través de puntos de contacto específicos de campaña",
+      "tacticas": ["Contenido teaser", "Influencer partnerships", "SEO local"]
+    },
+    "consideracion": {
+      "objetivos": "Construir confianza a través de demostración de valor específica por campaña",
+      "tacticas": ["Testimonios", "Tours virtuales", "Comparaciones con competencia"]
+    },
+    "conversion": {
+      "objetivos": "Impulsar reservas a través de ofertas específicas por campaña",
+      "tacticas": ["Ofertas tiempo limitado", "Paquetes exclusivos", "Reserva directa incentivos"]
+    },
+    "retencion": {
+      "objetivos": "Construir lealtad de campaña y generar defensa",
+      "tacticas": ["Programa lealtad", "UGC amplificación", "Experiencias exclusivas"]
+    }
+  },
+  "inversion_medios": {
+    "asignacion_presupuesto": "Específica por campaña con optimización basada en desempeño",
+    "estrategia_segmentacion": "Por mercado geográfico con enfoque en Ciudad de México y alrededores",
+    "optimizacion": {
+      "alto_rendimiento": "Aumentar presupuesto 30% si ROI excede objetivo en 25%",
+      "bajo_rendimiento": "Reasignar 20% del presupuesto a las de mejor desempeño",
+      "ajustes_estacionales": "Aumentar presupuestos de campañas pico en 50% durante períodos de alta demanda"
+    }
+  },
+  "mecanismos_confianza": {
+    "generacion_ugc": "Específica por campaña con hashtags únicos",
+    "recoleccion_resenas": {
+      "durante_estancia": "Solicitudes sutiles a través de amenidades específicas de campaña",
+      "check_out": "Solicitud personal con puntos de reseña específicos de campaña",
+      "24_horas": "SMS con destacados de experiencia de campaña",
+      "3_dias": "Email con compartir fotos y solicitud de reseña",
+      "1_semana": "Seguimiento con incentivos específicos de campaña"
+    },
+    "construccion_comunidad": {
+      "red_alumni": "Grupos exclusivos de Facebook para participantes de campañas principales",
+      "reuniones_virtuales": "Eventos en línea mensuales y actualizaciones específicas de campaña",
+      "programa_embajadores": "Los mejores creadores de UGC se convierten en embajadores de campaña"
+    }
+  },
+  "kpis_medicion": {
+    "conciencia": [
+      "Uso y alcance de hashtag de campaña",
+      "Impresiones y engagement en redes sociales",
+      "Tráfico del sitio web durante períodos de campaña",
+      "Volumen y sentimiento de menciones de marca"
+    ],
+    "engagement": [
+      "Tasas de engagement en redes sociales por campaña",
+      "Volumen y calidad de generación de UGC",
+      "Tasas de apertura y clics de email",
+      "Tasas de finalización de video y compartidos"
+    ],
+    "conversion": [
+      "Tasas de reserva específicas por campaña",
+      "Porcentaje de reserva directa durante campañas",
+      "Valor promedio de reserva por campaña",
+      "ROI de campaña y atribución de ingresos"
+    ],
+    "retencion": [
+      "Tasas de reserva repetida de participantes de campaña",
+      "Generación de reseñas de participantes de campaña",
+      "Tasas de referencia de huéspedes de campaña",
+      "Inscripción en programa de lealtad durante campañas"
+    ]
+  },
+  "fases_implementacion": {
+    "fase_1": {
+      "periodo": "15 de junio - 15 de septiembre, 2025",
+      "campanas": ["Verano al Lago", "Cruce Teques Experience", "Viva México Getaway"],
+      "metricas_exito": [
+        "50% aumento en tasas de ocupación de verano",
+        "1,000+ publicaciones en redes sociales específicas de campaña",
+        "30% aumento en reservas directas durante períodos de campaña",
+        "Calificación de satisfacción 7.8+ en todos los participantes de campaña"
+      ]
+    },
+    "fase_2": {
+      "periodo": "15 de septiembre - 15 de diciembre, 2025",
+      "campanas": ["Vaivén + Wellness", "Puente Revolución Reset", "Magia Navideña"],
+      "metricas_exito": [
+        "Logro de tasa de ocupación anual del 60%",
+        "2,500+ publicaciones totales relacionadas con campañas en redes sociales",
+        "20% tasa de reserva directa en todos los canales",
+        "250+ nuevas reseñas con calificación promedio 8.0+"
+      ]
+    },
+    "fase_3": {
+      "periodo": "15 de diciembre, 2025 - 14 de junio, 2026",
+      "campanas": ["Renueva-te 2026", "Puente-Valentín", "Acuaski Pro-Week", "Pre-Semana Santa", "Retiro Semana Santa", "Puente 1º Mayo", "Bodas & Eventos", "Cierre de Ciclo"],
+      "metricas_exito": [
+        "Logro de tasa de ocupación anual del 65%+",
+        "5,000+ publicaciones totales relacionadas con campañas en redes sociales",
+        "25% tasa de reserva directa en todos los canales",
+        "360+ reseñas totales con calificación promedio 8.0+",
+        "Reconocimiento de mercado como destino premier de fin de semana"
+      ]
+    }
+  },
+  "indicadores_anuales_exito": {
+    "ingresos_ocupacion": [
+      "45% aumento en ingresos anuales",
+      "65%+ tasa de ocupación anual",
+      "25% porcentaje de reserva directa",
+      "20% aumento en tarifa diaria promedio"
+    ],
+    "marca_posicion": [
+      "Top 3 hoteles boutique en mercado de Tequesquitengo",
+      "Mayor número de seguidores en redes sociales en el segmento",
+      "Calificación de percepción de valor 8.0+",
+      "Reconocimiento de liderazgo de mercado"
+    ],
+    "digital_comunidad": [
+      "100% aumento en seguidores de redes sociales en todas las plataformas",
+      "5,000+ publicaciones de UGC relacionadas con campañas",
+      "500+ miembros de la comunidad Alumni de Campañas VLU",
+      "360+ reseñas en todas las plataformas"
+    ],
+    "excelencia_operacional": [
+      "Calificación de satisfacción general 8.5+",
+      "90%+ satisfacción de participantes de campaña",
+      "40% tasa de reserva repetida de participantes de campaña",
+      "25% tasa de referencia de huéspedes de campaña"
+    ]
+  },
+  "proximos_pasos": [
+    "Asegurar aprobación ejecutiva y asignación de presupuesto para estrategia de 14 campañas",
+    "Ensamblar equipo de implementación de campañas con asignaciones específicas de roles",
+    "Establecer sistemas de medición de campañas y protocolos de monitoreo en tiempo real",
+    "Comenzar preparación de campaña Verano al Lago y alcance a influencers",
+    "Programar revisiones semanales de desempeño de campaña y evaluaciones estratégicas mensuales"
+  ]
+}

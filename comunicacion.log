@@ -1,16 +1,12 @@
 
 > app@0.1.0 dev
-> ../node_modules/.bin/next dev -p 3000
+> next dev -p 3000
 
-  ▲ Next.js 14.2.28
-  - Local:        http://localhost:3000
-  - Experiments (use with caution):
-    · outputFileTracingRoot
-
- ✓ Starting...
- ✓ Ready in 4.5s
- ○ Compiling / ...
- ✓ Compiled / in 5.5s (1200 modules)
- GET / 200 in 5869ms
- ✓ Compiled in 579ms (596 modules)
-[?25h
+sh: 1: next: not found
+npm error Lifecycle script `dev` failed with error:
+npm error code 127
+npm error path /home/ubuntu/vlu_comunicacion_website/app
+npm error workspace app@0.1.0
+npm error location /home/ubuntu/vlu_comunicacion_website/app
+npm error command failed
+npm error command sh -c next dev -p 3000
